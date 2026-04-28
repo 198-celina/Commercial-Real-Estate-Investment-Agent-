@@ -1,0 +1,29 @@
+# Core Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+
+# LangChain
+langchain==0.1.0
+langchain-openai==0.0.2
+
+# Vector Database
+pymilvus==2.3.5
+
+# Redis
+redis==5.0.1
+
+# LLM
+transformers==4.36.2
+peft==0.6.2
+accelerate==0.25.0
+bitsandbytes==0.41.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
